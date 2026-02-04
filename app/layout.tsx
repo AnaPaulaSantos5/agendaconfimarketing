@@ -1,5 +1,5 @@
 import "./globals.css";
-import { NextAuthProvider } from "./providers";
+import { NextAuthProvider } from "../providers";
 
 export const metadata = {
   title: "Marketing Hub Confi",
